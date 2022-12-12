@@ -1,6 +1,7 @@
 package uc2addnodeatbegining;
 
 public class LinkedList {
+    
     static class Node {
         int data;
         Node next;
