@@ -1,6 +1,7 @@
 package uc9removeelementatperticularindex;
 
 public class LinkedList {
+    
     static class Node {
         int data;
         Node next;
