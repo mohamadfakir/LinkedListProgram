@@ -1,6 +1,7 @@
 package uc8addnodeatgivenposition;
 
 public class LinkedList {
+    
     static class Node
     {
         int data;
