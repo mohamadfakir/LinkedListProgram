@@ -2,7 +2,6 @@ package uc1createlinkedlist;
 
 public class LinkedList {
 
-
     static class Node
     {
         int data;
