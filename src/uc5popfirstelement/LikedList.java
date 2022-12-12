@@ -59,7 +59,6 @@ public class LikedList {
         }
     }
 
-
     public void printLL() {
         Node current = head;
         while (current != null) {
