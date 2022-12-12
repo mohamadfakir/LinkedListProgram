@@ -36,7 +36,7 @@ public class LinkedList {
             currnode = currnode.next;
         }
     }
-
+    
     public static void main(String[] args) {
         LinkedList list = new LinkedList();
         list.addToLL(56);//56 is added first
